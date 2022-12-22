@@ -2,3 +2,11 @@
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 	branch = v1.2.0
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+	branch = v4.8.0
+[submodule "lib/hardhat"]
+	path = lib/hardhat
+	url = https://github.com/NomicFoundation/hardhat
+	branch = 2.9.2
